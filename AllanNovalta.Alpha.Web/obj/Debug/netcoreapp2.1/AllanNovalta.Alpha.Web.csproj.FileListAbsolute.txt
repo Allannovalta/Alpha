@@ -30,3 +30,4 @@ C:\Users\ALLAN_Novalta\Documents\Projects\Alpha\AllanNovalta.Alpha.Web\obj\Debug
 C:\Users\ALLAN_Novalta\Documents\Projects\Alpha\AllanNovalta.Alpha.Web\obj\Debug\netcoreapp2.1\AllanNovalta.Alpha.Web.dll
 C:\Users\ALLAN_Novalta\Documents\Projects\Alpha\AllanNovalta.Alpha.Web\obj\Debug\netcoreapp2.1\AllanNovalta.Alpha.Web.pdb
 C:\Users\ALLAN_Novalta\Documents\Projects\Alpha\AllanNovalta.Alpha.Web\obj\Debug\netcoreapp2.1\AllanNovalta.Alpha.Web.csproj.CopyComplete
+C:\Users\ALLAN_Novalta\Documents\Projects\Alpha\AllanNovalta.Alpha.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Manage\Views\Users\Index.g.cshtml.cs

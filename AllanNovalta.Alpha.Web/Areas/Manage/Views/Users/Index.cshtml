@@ -1,0 +1,40 @@
+﻿@using AllanNovalta.Alpha.Web.Infrastructure.Data.Models;
+@model AllanNovalta.Alpha.Web.Areas.Manage.ViewModels.Users.IndexViewModel;
+@{
+    ViewData["Title"] = "Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2>Users</h2>
+    <p>Here is a paged list of all the users</p>
+    <a href="~/home/create" title="Create User"><button type="button" class="btn">Create User    <i class="fas fa-plus"></i></button></a>
+    
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email Address</th>
+                <th>Gender</th>
+                <th>Login Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (User user in Model.Users.Items)
+                {
+                    <tr>
+                        <td>@user.FullName</td>
+                        <td>@user.EmailAddress</td>
+                        <td>@user.Gender</td>
+                        <td> @user.LoginStatus</td>
+                        <td></td>
+                    </tr>
+                    }
+                }
+
+        </tbody>
+
+    </table>
+</div>
