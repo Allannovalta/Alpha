@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALLAN_Novalta\\source\\repos\\AllanNovalta.Alpha\\AllanNovalta.Alpha.Web\\AllanNovalta.Alpha.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ALLAN_Novalta\\Documents\\Projects\\Alpha\\AllanNovalta.Alpha.Web\\AllanNovalta.Alpha.Web.csproj",
       "projectName": "AllanNovalta.Alpha.Web",
-      "projectPath": "C:\\Users\\ALLAN_Novalta\\source\\repos\\AllanNovalta.Alpha\\AllanNovalta.Alpha.Web\\AllanNovalta.Alpha.Web.csproj",
+      "projectPath": "C:\\Users\\ALLAN_Novalta\\Documents\\Projects\\Alpha\\AllanNovalta.Alpha.Web\\AllanNovalta.Alpha.Web.csproj",
       "packagesPath": "C:\\Users\\ALLAN_Novalta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALLAN_Novalta\\source\\repos\\AllanNovalta.Alpha\\AllanNovalta.Alpha.Web\\obj\\",
+      "outputPath": "C:\\Users\\ALLAN_Novalta\\Documents\\Projects\\Alpha\\AllanNovalta.Alpha.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
