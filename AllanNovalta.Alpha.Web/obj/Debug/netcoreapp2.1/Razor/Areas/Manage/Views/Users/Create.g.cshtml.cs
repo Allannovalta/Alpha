@@ -53,7 +53,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<h2>Create User</h2>\r\n\r\n");
             EndContext();
             BeginContext(197, 2714, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0367910d541549a4a38ce87ba634e528", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ae90ace6af14510b742da7a377bcf0e", async() => {
                 BeginContext(247, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
@@ -150,7 +150,7 @@ WriteAttributeValue("", 2575, option, 2575, 7, false);
                 WriteLiteral("        </select>\r\n        <small id=\"genderHelp\" class=\"form-text text-muted\">Gender is required.</small>\r\n    </div>\r\n    <button type=\"submit\" class=\"btn btn-primary\">Submit</button>\r\n    ");
                 EndContext();
                 BeginContext(2838, 64, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1d9e4c3c14094ccf928eff16bbc0b470", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f7887f2e6c6f498b97534ff3ca651bc1", async() => {
                     BeginContext(2892, 6, true);
                     WriteLiteral("Cancel");
                     EndContext();

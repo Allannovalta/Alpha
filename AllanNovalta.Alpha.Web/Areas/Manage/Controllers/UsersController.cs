@@ -96,5 +96,5 @@ namespace AllanNovalta.Alpha.Web.Areas.Manage.Controllers
 
             return RedirectToAction("index");
         }
-        }
+    }
 }
